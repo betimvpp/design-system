@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: qclZ2lpTw0dVcC7Sfo6f92IP
+          TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
           TURBO_TEAM: betim-vpp-team
 
       - name: Deploy storybook
