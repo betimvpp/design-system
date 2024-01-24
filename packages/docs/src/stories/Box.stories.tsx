@@ -7,7 +7,15 @@ export default {
 
     args: {
         children: <Text>Testando box</Text>
-    }
+    },
+
+    argTypes: {
+        children: {
+            control: {
+                type: null,
+            },
+        },
+    },
 
 } as Meta<BoxProps>
 
