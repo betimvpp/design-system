@@ -21,8 +21,8 @@ jobs:
 
       - run: npm run build
       env:
-      TURBO_TOKEN: yWb2mjC3Lx9FwqEMPSlTAO3O
-      TURBO_TEAM: betim-vpp-team
+        TURBO_TOKEN: yWb2mjC3Lx9FwqEMPSlTAO3O
+        TURBO_TEAM: betim-vpp-team
 
       - name: Deploy storybook
         working-directory: ./packages/docs
