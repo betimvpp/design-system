@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@betimvpp-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -32,9 +32,9 @@
     "vite": "^5.0.10"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@betimvpp-ui/eslint-config": "*",
+    "@betimvpp-ui/react": "*",
+    "@betimvpp-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.6.10",
     "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",

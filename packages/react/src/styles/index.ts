@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { colors, fontSizes, fontWeights, fonts, lineHeights, radii, space } from "@ignite-ui/tokens";
+import { colors, fontSizes, fontWeights, fonts, lineHeights, radii, space } from "@betimvpp-ui/tokens";
 import { createStitches, defaultThemeMap } from "@stitches/react";
 
 export const {

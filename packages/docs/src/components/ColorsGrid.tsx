@@ -1,4 +1,4 @@
-import { colors } from '@ignite-ui/tokens';
+import { colors } from '@betimvpp-ui/tokens';
 import React from 'react';
 import { getContrast } from 'polished';
 
