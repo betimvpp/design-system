@@ -1,0 +1,6 @@
+import{T as c}from"./index-0IOzbnmc.js";import"./index-XiNr8FW2.js";import"./_commonjsHelpers-5-cIlDoe.js";import"./extends-dGVwEr9R.js";import"./index-9vG4XYWr.js";import"./jsx-runtime-AgcCsxC8.js";const g={title:"Typography/Text",component:c,args:{size:"md",children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo dolorum ea in, odio voluptates quidem necessitatibus. Neque vel sapiente suscipit laudantium natus ad iure corporis porro voluptate, architecto enim nesciunt?"},argTypes:{size:{options:["xxs","xs","sm","md","lg","xl","2xl","4xl","5xl","6xl","7xl","8xl","9xl"],control:{type:"inline-radio"}}}},r={},e={args:{children:"Strong Text",as:"strong"}};var o,s,t;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:"{}",...(t=(s=r.parameters)==null?void 0:s.docs)==null?void 0:t.source}}};var a,i,n;e.parameters={...e.parameters,docs:{...(a=e.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    children: 'Strong Text',
+    as: 'strong'
+  }
+}`,...(n=(i=e.parameters)==null?void 0:i.docs)==null?void 0:n.source}}};const y=["Primary","Secondary"];export{r as Primary,e as Secondary,y as __namedExportsOrder,g as default};
